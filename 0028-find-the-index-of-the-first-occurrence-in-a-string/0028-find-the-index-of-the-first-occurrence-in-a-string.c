@@ -4,6 +4,7 @@ int strStr(char * haystack, char * needle) {
     printf("%d", idx - haystack);
     return idx - haystack;
   }
-  // Would put this in an else, but having this outside of else is
-  return -1;
+  else {
+    return -1;
+  }
 }
