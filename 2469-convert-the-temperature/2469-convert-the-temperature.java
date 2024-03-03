@@ -1,9 +1,10 @@
 class Solution {
-    public double[] convertTemperature(double celsius) {
-        final double KELVIN_OFFSET = 273.15;
-        final double FAHRENHEIT_FACTOR = 1.8;
-        final double FAHRENHEIT_OFFSET = 32.0;
-        
+
+    final double KELVIN_OFFSET = 273.15;
+    final double FAHRENHEIT_FACTOR = 1.8;
+    final double FAHRENHEIT_OFFSET = 32.0;
+    
+    public double[] convertTemperature(double celsius) {        
         double[] result = new double[2];
         
         // Convert Celsius to Kelvin
