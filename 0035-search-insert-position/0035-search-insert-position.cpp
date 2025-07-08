@@ -6,15 +6,16 @@ public:
         while (left_idx <= right_idx)
         {
             int midpoint_idx = (right_idx + left_idx) / 2;
-            if (nums[midpoint_idx] == target)
+            int midpoint_val = nums[static_cast<size_t>(midpoint_idx)];
+            if (midpoint_val == target)
             {
                 return midpoint_idx;
             }
-            if (target < nums[midpoint_idx])
+            if (target < midpoint_val)
             {
                 right_idx = midpoint_idx - 1;
             }
-            else if (target > nums[midpoint_idx])
+            else if (target > midpoint_val)
             {
                 left_idx = midpoint_idx + 1;
             }
