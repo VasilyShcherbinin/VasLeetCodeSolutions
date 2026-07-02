@@ -1,18 +1,14 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        idx = 0
-        idx_2 = 1
-        length = len(nums)
-        while length>0:
-            x = target - nums[idx]
-            if x in nums[idx_2:]:
-                idx_2 = nums.index(x, idx + 1)
-                break
+        seen = {}
+        idx, idx_2 = 0, 0
+        for i, num in enumerate(nums):
+            needed = target - num
+            if needed in seen:
+               idx = seen[needed]
+               idx_2=i 
             else:
-                idx = idx+1
-                idx_2 = idx_2+1
-                length = length-1
+                seen[num] = i      
         return (idx, idx_2)
-
 
         
