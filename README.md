@@ -17,4 +17,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
