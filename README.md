@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -21,4 +22,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0009-palindrome-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
