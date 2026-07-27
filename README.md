@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0228-summary-ranges/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
