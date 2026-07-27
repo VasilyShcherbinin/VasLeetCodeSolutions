@@ -1,20 +1,33 @@
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
         result = []
-        start = 0
+        templist = []
 
-        for end in range(len(nums)):
-            # Keep going if the next number is consecutive
-            if end + 1 < len(nums) and nums[end + 1] == nums[end] + 1:
-                continue
+        if not nums:
+            return result
 
-            # Otherwise, the current range ends here
-            if start == end:
-                result.append(str(nums[start]))
+        for i in range(len(nums) - 1):
+            if nums[i + 1] - nums[i] == 1:
+                templist.append(nums[i])
             else:
-                result.append(f"{nums[start]}->{nums[end]}")
+                templist.append(nums[i])
 
-            # The next range starts after end
-            start = end + 1
+                if templist[0] != templist[-1]:
+                    result_str = str(templist[0]) + "->" + str(templist[-1])
+                else:
+                    result_str = str(templist[0])
+
+                result.append(result_str)
+                templist = []
+
+        # Add the final number, which the loop does not process
+        templist.append(nums[-1])
+
+        if templist[0] != templist[-1]:
+            result_str = str(templist[0]) + "->" + str(templist[-1])
+        else:
+            result_str = str(templist[0])
+
+        result.append(result_str)
 
         return result
