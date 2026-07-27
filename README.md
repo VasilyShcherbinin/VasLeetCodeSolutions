@@ -11,11 +11,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0118-pascals-triangle/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
