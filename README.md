@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0228-summary-ranges/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
