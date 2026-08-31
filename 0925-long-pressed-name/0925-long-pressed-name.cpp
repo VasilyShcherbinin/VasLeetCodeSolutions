@@ -1,10 +1,12 @@
 class Solution {
 public:
-    bool isLongPressedName(std::string name, std::string typed) {
+    bool isLongPressedName(std::string name, std::string typed) 
+    {
         int pointerOG{ 0 };
         int pointerTP{ 0 };
 
-        while (pointerTP < typed.length()) {
+        while (pointerTP < typed.length()) 
+        {
             if (pointerOG < name.length() &&
                 name[pointerOG] == typed[pointerTP]) 
             {
