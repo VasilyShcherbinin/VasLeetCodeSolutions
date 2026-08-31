@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0344-reverse-string/) | Easy |
+| [0925-long-pressed-name](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0925-long-pressed-name/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -64,4 +65,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0344-reverse-string/) | Easy |
+| [0925-long-pressed-name](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0925-long-pressed-name/) | Easy |
 <!---LeetCode Topics End-->
