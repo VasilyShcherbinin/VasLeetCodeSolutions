@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Sorting
@@ -29,11 +30,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0009-palindrome-number/) | Easy |
+| [0202-happy-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0344-reverse-string/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Bit Manipulation
@@ -56,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
