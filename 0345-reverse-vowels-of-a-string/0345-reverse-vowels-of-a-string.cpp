@@ -15,28 +15,19 @@ public:
         };
         while (leftPtr < rightPtr)
         {
-            if (vowels.contains(s[leftPtr]))
+            if (!vowels.contains(s[leftPtr]))
             {
-                while (rightPtr > leftPtr)
-                {
-                    if (vowels.contains(s[rightPtr]))
-                    {
-                        break;
-                    }
-                    else
-                    {
-                        rightPtr--;
-                    }
-                }
-                auto temp = s[leftPtr];
-                s[leftPtr] = s[rightPtr];
-                s[rightPtr] = temp;
                 leftPtr++;
+            }
+            else if (!vowels.contains(s[rightPtr]))
+            {
                 rightPtr--;
             }
             else
             {
+                std::swap(s[leftPtr], s[rightPtr]);
                 leftPtr++;
+                rightPtr--;
             }
         }
 
