@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -23,10 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 <!---LeetCode Topics End-->
