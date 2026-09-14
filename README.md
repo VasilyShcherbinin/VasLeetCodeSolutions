@@ -24,11 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/VasilyShcherbinin/VasLeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
