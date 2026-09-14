@@ -5,11 +5,11 @@ public:
         bool isAnagram = false;
         std::unordered_map<char, int> wordCharsS{};
         std::unordered_map<char, int> wordCharsT{};
-        for (char c : t)
+        for (char c : s)
         {
             wordCharsS[c]++;
         }
-        for (char c : s)
+        for (char c : t)
         {
             wordCharsT[c]++;
         }
